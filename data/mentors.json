@@ -2162,13 +2162,37 @@
 
   "Joomla!": {
     "org": "Joomla!",
-    "ideasUrl": "https://docs.joomla.org/JGSOC:Google_Summer_of_Code_2026",
-    "channels": [],
-    "mentors": [],
-    "mailingLists": [],
-    "tip": "",
-    "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "ideasUrl": "https://docs.joomla.org/Google_Summer_of_Code_2026_Ideas",
+    "channels": [
+        {
+            "type": "Glip",
+            "url": "https://glip.com/",
+            "label": "Joomla! GSoC Chat"
+        },
+        {
+            "type": "Forum",
+            "url": "https://forum.joomla.org/",
+            "label": "Joomla! Forum"
+        }
+    ],
+    "mentors": [
+        {
+            "name": "",
+            "github": "joomla",
+            "githubUrl": "https://github.com/joomla"
+        }
+    ],
+    "mailingLists": [
+        {
+            "type": "Mailing list",
+            "url": "https://groups.google.com/g/joomla-dev-general",
+            "label": "Joomla! Developer Mailing List"
+        }
+    ],
+    "tip": "Join the Glip chat or forum to connect with mentors.",
+    "status": "ok",
+    "lastFetched": "2026-06-09T16:09:12.548Z"
+}
   },
   "Joplin": {
     "org": "Joplin",
