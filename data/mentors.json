@@ -2165,11 +2165,6 @@
     "ideasUrl": "https://docs.joomla.org/Google_Summer_of_Code_2026_Ideas",
     "channels": [
         {
-            "type": "Glip",
-            "url": "https://glip.com/",
-            "label": "Joomla! GSoC Chat"
-        },
-        {
             "type": "Forum",
             "url": "https://forum.joomla.org/",
             "label": "Joomla! Forum"
@@ -2189,7 +2184,7 @@
             "label": "Joomla! Developer Mailing List"
         }
     ],
-    "tip": "Join the Glip chat or forum to connect with mentors.",
+    "tip": "Use the Joomla! Forum or mailing list to connect with mentors.",
     "status": "ok",
     "lastFetched": "2026-06-09T16:09:12.548Z"
 }
